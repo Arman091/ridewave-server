@@ -25,3 +25,4 @@
 
 ## Documentation 
 - [Project Docs Basic Setup](./docs/structure.md)
+- [Login and Otp flow](./docs/login/login)
